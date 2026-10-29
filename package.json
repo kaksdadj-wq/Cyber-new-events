@@ -1,0 +1,13 @@
+{
+  "name": "cyber-entertainment",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "cms:tag": "node scripts/cms-tag.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}

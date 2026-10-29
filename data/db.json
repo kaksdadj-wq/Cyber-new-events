@@ -1,0 +1,711 @@
+{
+ "settings": {
+  "tagline": "Great Vybz Nothingless",
+  "phone": "+256703046409",
+  "whatsapp": "256703046409",
+  "email": "academy@cyberentertainment.com",
+  "address": "Seguku Katale, Wankulukuku Road, Kampala",
+  "hours": "Mon – Fri 8 AM – 8 PM · Sat 8 AM – 2 PM",
+  "instagram": "",
+  "youtube": "https://www.youtube.com/@cyberg256",
+  "tiktok": "https://www.tiktok.com/@cyberentertainmnt?is_from_webapp=1&sender_device=pc",
+  "facebook": ""
+ },
+ "gear": [
+  {
+   "id": "a39b55ed-1384-46f8-b4ca-43a3cfcf5b75",
+   "name": "Controllers & Decks",
+   "description": "Available for hire — message us for availability and rates.",
+   "price": "",
+   "available": true
+  },
+  {
+   "id": "9913877f-6eda-44b4-b0d0-a7335d35f0a5",
+   "name": "Mixers",
+   "description": "Available for hire — message us for availability and rates.",
+   "price": "",
+   "available": true
+  },
+  {
+   "id": "bdce5228-3ee3-4204-9d54-758e755b0c40",
+   "name": "PA Speakers",
+   "description": "Available for hire — message us for availability and rates.",
+   "price": "",
+   "available": true
+  },
+  {
+   "id": "333bdd3c-566f-4080-b1bc-bb5b8e331088",
+   "name": "Microphones",
+   "description": "Available for hire — message us for availability and rates.",
+   "price": "",
+   "available": true
+  },
+  {
+   "id": "b286754c-b071-431b-9dd1-23e26c0b5a8c",
+   "name": "Stage Lighting",
+   "description": "Available for hire — message us for availability and rates.",
+   "price": "",
+   "available": true
+  },
+  {
+   "id": "d8ed977e-8b80-4ee1-8e71-6374cbfecfc4",
+   "name": "Effects & Extras",
+   "description": "Available for hire — message us for availability and rates.",
+   "price": "",
+   "available": true
+  },
+  {
+   "id": "a7e62d5f-b3f1-4d55-9056-152e55f94f5e",
+   "name": "Fog machine",
+   "description": "Available for hire — message us for availability and rates.",
+   "price": "",
+   "available": true
+  }
+ ],
+ "bookings": [],
+ "admin": "ba0f3c9048127e632accb9d4e8c739a1:46039077cae5155b7902be8793345efedcb70fca11fd65f0a1dd8d369a0913d05b2d7fe9caec91800fbf4aea4348c71de92192b7829825ef17f1774c36d8450e",
+ "djs": [
+  {
+   "id": "a21d05dc-94b6-4773-83ef-5bbaa3993f51",
+   "name": "Deejay Cyber G",
+   "realName": "The Killer Mixologist",
+   "title": "Founder · Lead DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@cyberentertainmnt?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/30e2cf4b-da82-438e-9dc3-2c0c92d4c193-deejay-cyber-g.webp",
+   "available": true
+  },
+  {
+   "id": "d57bf1de-28e3-4f79-9222-c2607cef3389",
+   "name": "Deejay Tzo",
+   "realName": "Mr. Good Vybz",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@tzovybz?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/155a06d9-7130-41d7-94cc-b8d00f95c602-deejay-tzo.webp",
+   "available": true
+  },
+  {
+   "id": "13dc5a96-1417-439c-97a3-3678b0565b79",
+   "name": "Deejay Kaks",
+   "realName": "The Party Perfectionist",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@partyperfectionists?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/d68a66c5-b85d-4672-b74e-52a81808ceb8-deejay-kaks.webp",
+   "available": true
+  },
+  {
+   "id": "1240fd83-54c3-446b-8491-6fbcf4381056",
+   "name": "Jx Deejay",
+   "realName": "The Scratch Professor (Ug Sn3 Scratch Battle Winner)",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@jxdeejay?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/c071d6ae-5a93-48a2-b131-2ddd74487de2-jx-deejay.webp",
+   "available": true
+  },
+  {
+   "id": "d4a23b4d-66f4-40be-bfcd-aa4df9eb6be8",
+   "name": "Mr.Genius 256",
+   "realName": "The Music Genius",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@mrgenius256?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/baeac4a1-2d86-4882-9599-df2e2d8fa351-mr-genius-256.webp",
+   "available": true
+  },
+  {
+   "id": "28a91340-519e-4759-a746-7909f23ea172",
+   "name": "Kevin Deejay",
+   "realName": "Mr. Kampala",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@kevindjay?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/60a9bf0b-7c28-417a-83c3-0f3a999ad153-imgi_59_9a009eb020b347e49a917fefdde217e9_tplv-photomode-image.jpg",
+   "available": true
+  },
+  {
+   "id": "0411c9d7-8fbd-489b-80fd-4de9812a1ff4",
+   "name": "Deejay Lusty",
+   "realName": "",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "",
+   "photo": "/media/d4d4311e-5852-435f-ab56-f7f865bec585-WhatsApp_Image_2026-10-05_at_4.17.41_PM_2_.jpeg",
+   "available": true
+  },
+  {
+   "id": "4c696e7b-c05f-4d89-8498-ff421e7b8815",
+   "name": "Mc Mapenzi",
+   "realName": "The voice of your night",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@mc.mapenzi?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/baa72b5f-102e-4360-88c1-599203d062c4-WhatsApp_Image_2026-10-05_at_4.17.25_PM.jpeg",
+   "available": true
+  },
+  {
+   "id": "84d8d9de-f358-4e6f-bc1e-f6e6937bd5a9",
+   "name": "Deejay Poundz",
+   "realName": "",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@ibrahimpounds?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/poundz0-deejay-poundz.webp",
+   "available": true
+  },
+  {
+   "id": "782e434c-c392-486e-849b-eba0fb031092",
+   "name": "Deejay King T",
+   "realName": "",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@kingt0121?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/1f9b98c2-cb99-4041-a28b-0f491ff5cc93-WhatsApp_Image_2026-10-05_at_4.16.47_PM_1_.jpeg",
+   "available": true
+  },
+  {
+   "id": "ef38a19c-bfac-43ff-a87d-383d558f2e5e",
+   "name": "Taf Bwoi Mc",
+   "realName": "The Microphone Therapist",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@omuboneleza?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/a203917a-a1fb-4635-9db7-9cac257f5f22-WhatsApp_Image_2026-09-04_at_5.31.08_PM.jpeg",
+   "available": true
+  },
+  {
+   "id": "1606a4a9-6dae-4100-99d5-e7d1ac78f9d4",
+   "name": "Emma Emcee",
+   "realName": "",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@micgeneral256?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/68aeff77-90db-46e8-afe3-63301f63e92a-1.jpg.jpg",
+   "available": true
+  },
+  {
+   "id": "97515edf-20fa-43f7-99df-16dbc27ae85c",
+   "name": "Dvj Alex pro",
+   "realName": "Mr stress killers",
+   "title": "Cyber Entertainment DJ",
+   "bio": "",
+   "genres": "",
+   "instagram": "https://www.tiktok.com/@dvjalexpro256?is_from_webapp=1&sender_device=pc",
+   "photo": "/media/f46f7891-6b58-4065-a6db-08c53302b839-IMG-20261008-WA0231.jpg.jpeg",
+   "available": true
+  }
+ ],
+ "mixtapes": [
+  {
+   "id": "c837b729-b427-482d-960c-51c78aacb22a",
+   "djId": "13dc5a96-1417-439c-97a3-3678b0565b79",
+   "title": "The Perfect Experience Mixtape, Jose Chameleone, Bobi Wine, Fik Fameica, Alien Skin, King Saha.",
+   "file": "",
+   "url": "https://youtu.be/lv_tM3fzeqA",
+   "available": true,
+   "downloads": 0,
+   "created": "2026-10-01T11:41:55.460Z"
+  },
+  {
+   "id": "1939ea8b-766f-47b8-a5da-edc8d55b59c1",
+   "djId": "d57bf1de-28e3-4f79-9222-c2607cef3389",
+   "title": "FIRST & LATEST DANCEHALL MIXTAPE 2026 | Dexta Daps, Spice, Popcaan, Aidonia & Konshens",
+   "file": "",
+   "url": "https://youtu.be/abwTJu10vyo",
+   "available": true,
+   "downloads": 0,
+   "created": "2026-10-01T11:44:37.973Z"
+  },
+  {
+   "id": "fc9d376d-233c-49c1-a7e4-2202a7742641",
+   "djId": "1240fd83-54c3-446b-8491-6fbcf4381056",
+   "title": "THE REAL SCRATCH BATTLE SEASON 3 ROUND 2 BY JXDEEJAY THE SCRATCH PROFFESOR",
+   "file": "",
+   "url": "https://youtu.be/YGFnApucM-4",
+   "available": true,
+   "downloads": 0,
+   "created": "2026-10-01T11:44:37.973Z"
+  },
+  {
+   "id": "62f76691-4024-47d0-a92a-aaa9bb70e2d4",
+   "djId": "13dc5a96-1417-439c-97a3-3678b0565b79",
+   "title": "TRAP DRIP MIXTAPE by Deejay Kaks Ft Dante Mcee",
+   "file": "",
+   "url": "https://youtu.be/63BYjHXmV4k",
+   "available": true,
+   "downloads": 0,
+   "created": "2026-10-01T11:47:13.780Z"
+  },
+  {
+   "id": "97943bf6-ebd5-47e1-845b-270ff7abf1f1",
+   "djId": "13dc5a96-1417-439c-97a3-3678b0565b79",
+   "title": "After The Countdown | Chill New Year Vibes Mix – Deejay Kaks ft MC TafBwoi",
+   "file": "",
+   "url": "https://youtu.be/DK2B8qOMKMU",
+   "available": true,
+   "downloads": 0,
+   "created": "2026-10-01T11:48:44.194Z"
+  },
+  {
+   "id": "a755e8bf-30e5-4993-bf86-b62014e99882",
+   "djId": "d4a23b4d-66f4-40be-bfcd-aa4df9eb6be8",
+   "title": "BASELINE MIXTAPE VOL.1 2026 BY @MR.GENIUS. Ft. Mc Chapter Official1:10:54 #22",
+   "file": "",
+   "url": "https://hearthis.at/67b705dc05651/baseline-mixtape-vol1-2026-by-mrgenius-ft-mc-chapter-official/",
+   "available": true,
+   "downloads": 0,
+   "created": "2026-10-01T11:51:40.237Z"
+  },
+  {
+   "id": "5e9e177d-7552-4aca-be91-711fa4b32c5e",
+   "djId": "a21d05dc-94b6-4773-83ef-5bbaa3993f51",
+   "title": "🔥 THE CLUB TAKEOVER | Amapiano x Afrobeats x Dancehall x Ragga | Nonstop Club Bangers | DJ Cyber G",
+   "file": "",
+   "url": "https://youtu.be/oY5-_dVLOIo",
+   "available": true,
+   "downloads": 0,
+   "created": "2026-10-01T11:53:12.541Z"
+  },
+  {
+   "id": "22273465-61b6-4bbe-87ff-ca32fd30b417",
+   "djId": "d4a23b4d-66f4-40be-bfcd-aa4df9eb6be8",
+   "title": "#PREMIERE MONDAYS LIVE SET MIX @TEO LOUNGE EP1 BY MR.GENIUS 256 & MC BEY'CA",
+   "file": "",
+   "url": "https://hearthis.at/67b705dc05651/premiere-mondays-live-set-mix-teo-lounge-ep1-by-mrgenius-256-mc-beyca/",
+   "available": true,
+   "downloads": 0,
+   "created": "2026-10-02T09:34:26.209Z"
+  }
+ ],
+ "shirts": [
+  {
+   "id": "593a3412-83f2-403f-9164-10b6e81f6b77",
+   "djId": "a21d05dc-94b6-4773-83ef-5bbaa3993f51",
+   "name": "Deejay Cyber G Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "f2b1ea5e-169f-48a4-9d1c-a68cc4fdbd4f",
+   "djId": "d57bf1de-28e3-4f79-9222-c2607cef3389",
+   "name": "Deejay Tzo Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "d33939f9-d119-4e05-9ab8-11f364fbc74a",
+   "djId": "13dc5a96-1417-439c-97a3-3678b0565b79",
+   "name": "Deejay Kaks Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "9577a019-2a38-455f-a565-640645c56452",
+   "djId": "1240fd83-54c3-446b-8491-6fbcf4381056",
+   "name": "Jx Deejay Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "01d81734-925b-49d9-8ec0-62995c16b1d6",
+   "djId": "d4a23b4d-66f4-40be-bfcd-aa4df9eb6be8",
+   "name": "Mr.Genius 256 Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "76f39143-7509-443b-adcc-e022723ddabf",
+   "djId": "28a91340-519e-4759-a746-7909f23ea172",
+   "name": "Kevin Deejay Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "7fa6ed90-a642-4060-a870-86c4f0f39157",
+   "djId": "0411c9d7-8fbd-489b-80fd-4de9812a1ff4",
+   "name": "Deejay Lusty Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "c857acc3-a72c-4fc6-83ef-2443815c6a08",
+   "djId": "4c696e7b-c05f-4d89-8498-ff421e7b8815",
+   "name": "Mc Mapeenzi Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "42a74514-ef04-4035-85c9-2bda292272e5",
+   "djId": "84d8d9de-f358-4e6f-bc1e-f6e6937bd5a9",
+   "name": "Deejay Poundz Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "7b66badd-fbbe-4b1a-9134-3a784c7ff9d2",
+   "djId": "782e434c-c392-486e-849b-eba0fb031092",
+   "name": "Deejay King T Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "08a4aec9-d92b-42e9-988d-954433233733",
+   "djId": "ef38a19c-bfac-43ff-a87d-383d558f2e5e",
+   "name": "Taf Bwoi Mc Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "03d2928b-700e-48df-8334-baab20b5d4cb",
+   "djId": "1606a4a9-6dae-4100-99d5-e7d1ac78f9d4",
+   "name": "Emma Emcee Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  },
+  {
+   "id": "6e71487b-b436-4644-816e-370f1559d0c1",
+   "djId": "97515edf-20fa-43f7-99df-16dbc27ae85c",
+   "name": "Dvj Alex pro Signature Tshirts",
+   "description": "Official Cyber Entertainment t.shirts.",
+   "price": 35000,
+   "sizes": "S,M,L,XL,XXL",
+   "image": "",
+   "available": true
+  }
+ ],
+ "events": [
+  {
+   "id": "daa6c94e-9f24-4334-865e-55871516bb27",
+   "title": "Mr. Genius 256 Presents: The Genius Turn Up Mix Show Season 01",
+   "date": "2026-11-29",
+   "time": "02:00pm - Late",
+   "venue": "Darenaz Hotel & Restaurant",
+   "description": "Mr. Genius 256 Presents: The Genius Turn Up Mix Show Season 01!Gear up for an unmatched party experience as Mr. Genius 256 brings you The Genius Turn Up Mix Show (Season 01) on Sunday, 29th November at Darenaz Hotel, Kawanda!   The event features high-energy performances from a star-studded lineup of top DJs, MCs, and live artists.   Ticket Information:Ordinary: UGX 10k | VIP: UGX 20k | VVIP: UGX 50k   Table Packages: UGX 250k (Table of 4) | UGX 350k (Table of 6)   For reservations and table bookings, call 0743985656.",
+   "lineup": "High-energy performances from a star-studded lineup of top DJs, MCs, and live artists.",
+   "price": "",
+   "ticketUrl": "",
+   "image": "/media/4bac633f-6605-4c96-ac4a-248bc6843cd3-WhatsApp_Image_2026-10-08_at_11.57.15_AM.jpeg",
+   "status": "upcoming",
+   "available": true
+  },
+  {
+   "id": "e4d81f3b-92a6-4c57-b0d8-6a15c7e93f20",
+   "title": "La Fête Noire (First Edition)",
+   "date": "2026-12-20",
+   "time": "",
+   "venue": "Grabhuas (Eatme), Nansana",
+   "description": "Fashion. Art. Music. Activities: Red Carpet, Photography, Scratch Showcase and Open Mic. Reservations: +256 756 334994 / +256 742 338997.",
+   "lineup": "Music: Xtreme DJs & Cyber Ent. MCs: Krayzy Vybz, Emma Emcee. Hosted by Diana Kim (Baby Mama)",
+   "price": "Ordinary: UGX 10k  VIP: UGX 50k  Table: UGX 200k",
+   "ticketUrl": "",
+   "image": "/media/8a3f9d12-6c47-4b05-b2e9-71d4a6c0f533-la-fete-noire-flyer.webp",
+   "status": "upcoming",
+   "available": true
+  },
+  {
+   "id": "4a8d523d-6430-4dc1-8aae-3def73c77833",
+   "title": "Meeting",
+   "date": "2026-10-29",
+   "time": "04:00pm - Late",
+   "venue": "Cyber Entertainment Studios",
+   "description": "",
+   "lineup": "Our Meeting",
+   "price": "Free",
+   "ticketUrl": "",
+   "image": "",
+   "status": "upcoming",
+   "available": true
+  }
+ ],
+ "subscribers": [],
+ "news": [
+  {
+   "id": "b7e2c1a4-5d93-4f68-8a10-3c9e6d2f7a45",
+   "title": "Our CEO is a judge at Untamed Deejays Battle IV",
+   "date": "2026-10-29",
+   "summary": "The CEO of Cyber Entertainment has been announced as one of the judges at Untamed Deejays Battle IV, hosted by Nina Events. Join us on Wednesday 25 November 2026 at The Hangout Kampala, Kisaasi (opposite Kampala Quality Stadium, Bahai Road). The winner takes UGX 1M back home.",
+   "link": "",
+   "image": "/media/5c1e7a40-3b2d-4e8f-9a61-0d7f2c4b8e11-untamed-deejays-battle-iv.webp",
+   "available": true
+  }
+ ],
+ "faq": [
+  {
+   "id": "faq1",
+   "q": "How far ahead should I book a DJ?",
+   "a": "As early as you can — weekends and holidays fill up fast. Send your date on WhatsApp and we will confirm availability.",
+   "available": true
+  },
+  {
+   "id": "faq2",
+   "q": "Can I hire gadgets without a DJ?",
+   "a": "Yes. Gear can be hired on its own for your event, and our team can help with delivery and setup.",
+   "available": true
+  },
+  {
+   "id": "faq3",
+   "q": "How do I book the recording studio?",
+   "a": "Send us a message with your preferred date and what you would like to record. Sessions are by appointment.",
+   "available": true
+  },
+  {
+   "id": "faq4",
+   "q": "What areas do you cover?",
+   "a": "We are based at Seguku Katale, Wankulukuku Road, Kampala, and travel for events. Tell us your venue and we will confirm.",
+   "available": true
+  },
+  {
+   "id": "faq5",
+   "q": "Do you teach beginners?",
+   "a": "Yes — the DJ Academy runs hands-on training from the basics to performing live.",
+   "available": true
+  },
+  {
+   "id": "faq6",
+   "q": "What is included in a package?",
+   "a": "Packages combine a DJ with the sound, microphones and lighting that suit your venue and guest count. We confirm exactly what is included, in writing, in your quote.",
+   "available": true
+  },
+  {
+   "id": "faq7",
+   "q": "Can I choose my DJ?",
+   "a": "Yes. Pick a DJ from the Book a DJ section, or tell us the style you want and we will suggest one.",
+   "available": true
+  },
+  {
+   "id": "faq8",
+   "q": "Can you provide sound and lighting as well as a DJ?",
+   "a": "Yes. Controllers, mixers, PA speakers, microphones and stage lighting are available through DJ Gadget Hire, on their own or as part of a package.",
+   "available": true
+  },
+  {
+   "id": "faq9",
+   "q": "How do I get a quote?",
+   "a": "Use the booking form or message us on WhatsApp with your date, venue and type of event. We reply with availability and clear pricing.",
+   "available": true
+  },
+  {
+   "id": "faq10",
+   "q": "What kinds of events do you cover?",
+   "a": "Weddings, club and lounge nights, corporate events, private parties, school and campus events, and content shoots.",
+   "available": true
+  }
+ ],
+ "gallery": [
+  {
+   "id": "g1",
+   "image": "https://images.pexels.com/photos/10106030/pexels-photo-10106030.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "alt": "Black African DJ working with mixer in nightclub",
+   "title": "Live DJ Performance",
+   "caption": "High-energy entertainment for the room.",
+   "available": true
+  },
+  {
+   "id": "g2",
+   "image": "https://images.pexels.com/photos/9726872/pexels-photo-9726872.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "alt": "Black African DJ mixing music on turntables",
+   "title": "DJ Booth",
+   "caption": "Professional mixing and performance.",
+   "available": true
+  },
+  {
+   "id": "g3",
+   "image": "https://images.pexels.com/photos/15266346/pexels-photo-15266346.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "alt": "Black African DJ using sound mixer on stage",
+   "title": "Stage Energy",
+   "caption": "Sound, lights and crowd connection.",
+   "available": true
+  },
+  {
+   "id": "g4",
+   "image": "https://images.pexels.com/photos/9719248/pexels-photo-9719248.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "alt": "Black African DJ adjusting mixer",
+   "title": "Precision",
+   "caption": "Every transition matters.",
+   "available": true
+  }
+ ],
+ "last_backup": "2026-10-29",
+ "modules": [
+  {
+   "id": "mod1",
+   "title": "Introduction",
+   "desc": "Meet the booth. What a working DJ actually does, the roles inside a DJ setup, how the industry pays, and the mindset that separates a hobbyist from a booked professional.",
+   "available": true
+  },
+  {
+   "id": "mod2",
+   "title": "Setting up DJ equipment",
+   "desc": "Controllers, CDJs, mixers, monitors, headphones and cables, wired correctly and safely. Gain staging, booth balancing and fast set-up in an unfamiliar venue.",
+   "available": true
+  },
+  {
+   "id": "mod3",
+   "title": "The structure of music",
+   "desc": "Beats, bars, phrases and eight-counts. Song anatomy, BPM counting, key awareness and how intros, breakdowns and drops tell you when to move.",
+   "available": true
+  },
+  {
+   "id": "mod4",
+   "title": "Beat matching & sync",
+   "desc": "Train your ear first, then master the tools: manual pitch riding, cue-point drops, waveform reading and when to trust sync.",
+   "available": true
+  },
+  {
+   "id": "mod5",
+   "title": "Audio mixing",
+   "desc": "EQ blending, fader and crossfader technique, loops, hot cues and effects for seamless transitions that keep the floor locked in.",
+   "available": true
+  },
+  {
+   "id": "mod6",
+   "title": "Video mixing",
+   "desc": "Run visuals alongside your audio set: video cueing, clip libraries, transitions, effect layers and clean output to LED walls and screens.",
+   "available": true
+  },
+  {
+   "id": "mod7",
+   "title": "Scratching",
+   "desc": "Baby scratch, chirp, transform and flare. Hand coordination, timing drills and using scratches as musical accents.",
+   "available": true
+  },
+  {
+   "id": "mod8",
+   "title": "DJ routine",
+   "desc": "Build and rehearse a full performance set: energy mapping, reading the crowd, mic work, requests, stage presence and closing a room.",
+   "available": true
+  },
+  {
+   "id": "mod9",
+   "title": "Best DJ equipment tips & advice",
+   "desc": "What to buy first, what to avoid, gear maintenance, backup planning, pricing your bookings and building your brand.",
+   "available": true
+  }
+ ],
+ "packages": [
+  {
+   "id": "pkg1",
+   "name": "Essential",
+   "tagline": "For smaller events and tight budgets",
+   "features": "A professional DJ for your event\nMixer and speakers sized for smaller venues\nA clear quote before you commit\nDate secured with a deposit",
+   "recommended": false,
+   "available": true
+  },
+  {
+   "id": "pkg2",
+   "name": "Signature",
+   "tagline": "For weddings, lounges and corporate nights",
+   "features": "Everything in Essential\nYour choice of DJ\nMicrophones and stage lighting matched to your venue\nEarly arrival and a full sound check",
+   "recommended": true,
+   "available": true
+  },
+  {
+   "id": "pkg3",
+   "name": "Full Production",
+   "tagline": "For large venues and bigger productions",
+   "features": "Everything in Signature\nMore than one DJ on request\nExtended hours and a larger sound setup\nStudio recording of your mix or content",
+   "recommended": false,
+   "available": true
+  }
+ ],
+ "evtypes": [
+  {
+   "id": "evt1",
+   "title": "Weddings & receptions",
+   "tagline": "Music that follows the whole day.",
+   "text": "From guest arrival to the last dance, we plan the sound with you and match the equipment to your venue.",
+   "points": "Microphones ready for speeches and entrances\nPlaylist and requests agreed before the day\nEarly arrival and a full sound check",
+   "available": true
+  },
+  {
+   "id": "evt2",
+   "title": "Clubs, bars & lounges",
+   "tagline": "Sound built for the night crowd.",
+   "text": "Resident and guest DJ sets tuned to your venue and your regulars.",
+   "points": "Genre mix to suit your crowd\nEquipment sized to the room\nMic work and crowd reading",
+   "available": true
+  },
+  {
+   "id": "evt3",
+   "title": "Corporate & brand events",
+   "tagline": "Polished sound for launches and stages.",
+   "text": "Clear speech audio and background or party music for conferences, launches and brand activations.",
+   "points": "Microphones and PA for speakers\nMusic planned around your programme\nSetup and sound check before doors open",
+   "available": true
+  },
+  {
+   "id": "evt4",
+   "title": "Private parties",
+   "tagline": "Birthdays, graduations and house parties.",
+   "text": "A DJ and the gear to match your guest list, at your home or hired venue.",
+   "points": "Playlist and requests agreed ahead\nDecks, speakers and lighting as needed\nQuote confirmed before you commit",
+   "available": true
+  },
+  {
+   "id": "evt5",
+   "title": "Schools & campuses",
+   "tagline": "Events for students and staff.",
+   "text": "Music and sound for school and campus events, from socials to galas.",
+   "points": "Age-appropriate sets\nSound sized to halls and fields\nClear quote and deposit",
+   "available": true
+  },
+  {
+   "id": "evt6",
+   "title": "Creators & radio",
+   "tagline": "Content, mixes and shows.",
+   "text": "Studio sessions and DJ support for mixes, podcasts, voice-overs and content shoots.",
+   "points": "Studio recording by appointment\nDJ mixes for your channel or show\nGear hire for shoots",
+   "available": true
+  }
+ ]
+}

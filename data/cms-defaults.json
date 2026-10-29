@@ -1,0 +1,230 @@
+{
+ "faq": [
+  {
+   "id": "faq1",
+   "q": "How far ahead should I book a DJ?",
+   "a": "As early as you can — weekends and holidays fill up fast. Send your date on WhatsApp and we will confirm availability.",
+   "available": true
+  },
+  {
+   "id": "faq2",
+   "q": "Can I hire gadgets without a DJ?",
+   "a": "Yes. Gear can be hired on its own for your event, and our team can help with delivery and setup.",
+   "available": true
+  },
+  {
+   "id": "faq3",
+   "q": "How do I book the recording studio?",
+   "a": "Send us a message with your preferred date and what you would like to record. Sessions are by appointment.",
+   "available": true
+  },
+  {
+   "id": "faq4",
+   "q": "What areas do you cover?",
+   "a": "We are based at Seguku Katale, Wankulukuku Road, Kampala, and travel for events. Tell us your venue and we will confirm.",
+   "available": true
+  },
+  {
+   "id": "faq5",
+   "q": "Do you teach beginners?",
+   "a": "Yes — the DJ Academy runs hands-on training from the basics to performing live.",
+   "available": true
+  },
+  {
+   "id": "faq6",
+   "q": "What is included in a package?",
+   "a": "Packages combine a DJ with the sound, microphones and lighting that suit your venue and guest count. We confirm exactly what is included, in writing, in your quote.",
+   "available": true
+  },
+  {
+   "id": "faq7",
+   "q": "Can I choose my DJ?",
+   "a": "Yes. Pick a DJ from the Book a DJ section, or tell us the style you want and we will suggest one.",
+   "available": true
+  },
+  {
+   "id": "faq8",
+   "q": "Can you provide sound and lighting as well as a DJ?",
+   "a": "Yes. Controllers, mixers, PA speakers, microphones and stage lighting are available through DJ Gadget Hire, on their own or as part of a package.",
+   "available": true
+  },
+  {
+   "id": "faq9",
+   "q": "How do I get a quote?",
+   "a": "Use the booking form or message us on WhatsApp with your date, venue and type of event. We reply with availability and clear pricing.",
+   "available": true
+  },
+  {
+   "id": "faq10",
+   "q": "What kinds of events do you cover?",
+   "a": "Weddings, club and lounge nights, corporate events, private parties, school and campus events, and content shoots.",
+   "available": true
+  }
+ ],
+ "gallery": [
+  {
+   "id": "g1",
+   "image": "https://images.pexels.com/photos/10106030/pexels-photo-10106030.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "alt": "Black African DJ working with mixer in nightclub",
+   "title": "Live DJ Performance",
+   "caption": "High-energy entertainment for the room.",
+   "available": true
+  },
+  {
+   "id": "g2",
+   "image": "https://images.pexels.com/photos/9726872/pexels-photo-9726872.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "alt": "Black African DJ mixing music on turntables",
+   "title": "DJ Booth",
+   "caption": "Professional mixing and performance.",
+   "available": true
+  },
+  {
+   "id": "g3",
+   "image": "https://images.pexels.com/photos/15266346/pexels-photo-15266346.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "alt": "Black African DJ using sound mixer on stage",
+   "title": "Stage Energy",
+   "caption": "Sound, lights and crowd connection.",
+   "available": true
+  },
+  {
+   "id": "g4",
+   "image": "https://images.pexels.com/photos/9719248/pexels-photo-9719248.jpeg?auto=compress&cs=tinysrgb&w=1600",
+   "alt": "Black African DJ adjusting mixer",
+   "title": "Precision",
+   "caption": "Every transition matters.",
+   "available": true
+  }
+ ],
+ "modules": [
+  {
+   "id": "mod1",
+   "title": "Introduction",
+   "desc": "Meet the booth. What a working DJ actually does, the roles inside a DJ setup, how the industry pays, and the mindset that separates a hobbyist from a booked professional.",
+   "available": true
+  },
+  {
+   "id": "mod2",
+   "title": "Setting up DJ equipment",
+   "desc": "Controllers, CDJs, mixers, monitors, headphones and cables, wired correctly and safely. Gain staging, booth balancing and fast set-up in an unfamiliar venue.",
+   "available": true
+  },
+  {
+   "id": "mod3",
+   "title": "The structure of music",
+   "desc": "Beats, bars, phrases and eight-counts. Song anatomy, BPM counting, key awareness and how intros, breakdowns and drops tell you when to move.",
+   "available": true
+  },
+  {
+   "id": "mod4",
+   "title": "Beat matching & sync",
+   "desc": "Train your ear first, then master the tools: manual pitch riding, cue-point drops, waveform reading and when to trust sync.",
+   "available": true
+  },
+  {
+   "id": "mod5",
+   "title": "Audio mixing",
+   "desc": "EQ blending, fader and crossfader technique, loops, hot cues and effects for seamless transitions that keep the floor locked in.",
+   "available": true
+  },
+  {
+   "id": "mod6",
+   "title": "Video mixing",
+   "desc": "Run visuals alongside your audio set: video cueing, clip libraries, transitions, effect layers and clean output to LED walls and screens.",
+   "available": true
+  },
+  {
+   "id": "mod7",
+   "title": "Scratching",
+   "desc": "Baby scratch, chirp, transform and flare. Hand coordination, timing drills and using scratches as musical accents.",
+   "available": true
+  },
+  {
+   "id": "mod8",
+   "title": "DJ routine",
+   "desc": "Build and rehearse a full performance set: energy mapping, reading the crowd, mic work, requests, stage presence and closing a room.",
+   "available": true
+  },
+  {
+   "id": "mod9",
+   "title": "Best DJ equipment tips & advice",
+   "desc": "What to buy first, what to avoid, gear maintenance, backup planning, pricing your bookings and building your brand.",
+   "available": true
+  }
+ ],
+ "packages": [
+  {
+   "id": "pkg1",
+   "name": "Essential",
+   "tagline": "For smaller events and tight budgets",
+   "features": "A professional DJ for your event\nMixer and speakers sized for smaller venues\nA clear quote before you commit\nDate secured with a deposit",
+   "recommended": false,
+   "available": true
+  },
+  {
+   "id": "pkg2",
+   "name": "Signature",
+   "tagline": "For weddings, lounges and corporate nights",
+   "features": "Everything in Essential\nYour choice of DJ\nMicrophones and stage lighting matched to your venue\nEarly arrival and a full sound check",
+   "recommended": true,
+   "available": true
+  },
+  {
+   "id": "pkg3",
+   "name": "Full Production",
+   "tagline": "For large venues and bigger productions",
+   "features": "Everything in Signature\nMore than one DJ on request\nExtended hours and a larger sound setup\nStudio recording of your mix or content",
+   "recommended": false,
+   "available": true
+  }
+ ],
+ "evtypes": [
+  {
+   "id": "evt1",
+   "title": "Weddings & receptions",
+   "tagline": "Music that follows the whole day.",
+   "text": "From guest arrival to the last dance, we plan the sound with you and match the equipment to your venue.",
+   "points": "Microphones ready for speeches and entrances\nPlaylist and requests agreed before the day\nEarly arrival and a full sound check",
+   "available": true
+  },
+  {
+   "id": "evt2",
+   "title": "Clubs, bars & lounges",
+   "tagline": "Sound built for the night crowd.",
+   "text": "Resident and guest DJ sets tuned to your venue and your regulars.",
+   "points": "Genre mix to suit your crowd\nEquipment sized to the room\nMic work and crowd reading",
+   "available": true
+  },
+  {
+   "id": "evt3",
+   "title": "Corporate & brand events",
+   "tagline": "Polished sound for launches and stages.",
+   "text": "Clear speech audio and background or party music for conferences, launches and brand activations.",
+   "points": "Microphones and PA for speakers\nMusic planned around your programme\nSetup and sound check before doors open",
+   "available": true
+  },
+  {
+   "id": "evt4",
+   "title": "Private parties",
+   "tagline": "Birthdays, graduations and house parties.",
+   "text": "A DJ and the gear to match your guest list, at your home or hired venue.",
+   "points": "Playlist and requests agreed ahead\nDecks, speakers and lighting as needed\nQuote confirmed before you commit",
+   "available": true
+  },
+  {
+   "id": "evt5",
+   "title": "Schools & campuses",
+   "tagline": "Events for students and staff.",
+   "text": "Music and sound for school and campus events, from socials to galas.",
+   "points": "Age-appropriate sets\nSound sized to halls and fields\nClear quote and deposit",
+   "available": true
+  },
+  {
+   "id": "evt6",
+   "title": "Creators & radio",
+   "tagline": "Content, mixes and shows.",
+   "text": "Studio sessions and DJ support for mixes, podcasts, voice-overs and content shoots.",
+   "points": "Studio recording by appointment\nDJ mixes for your channel or show\nGear hire for shoots",
+   "available": true
+  }
+ ]
+}
